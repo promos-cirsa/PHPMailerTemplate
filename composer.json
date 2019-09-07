@@ -4,8 +4,13 @@
             "app\\" : "PHPMailerHelper/"
         }
     },
+    
+    "name": "PHPMailerHelper/PHPMailerHelper",
+    "description": "It's just a template to send emails",
     "require": {
+        "php": "^7.0",
         "phpmailer/phpmailer": "^6.0",
         "vlucas/phpdotenv": "^3.3"
     }
-}
+    
+} 
