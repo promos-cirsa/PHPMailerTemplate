@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "app\\" : "PHPMailerHelper/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "vlucas/phpdotenv": "^3.3"
+    }
+}

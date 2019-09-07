@@ -1,0 +1,11 @@
+# General
+vendor
+
+# Composer
+composer.phar
+composer.lock
+
+# Enviroment
+nbproject
+.env
+manifest.json
