@@ -5,7 +5,7 @@
         }
     },
     
-    "name": "PHPMailerHelper/PHPMailerHelper",
+    "name": "php-mailer-helper/php-mailer-helper",
     "description": "It's just a template to send emails",
     "require": {
         "php": "^7.0",
